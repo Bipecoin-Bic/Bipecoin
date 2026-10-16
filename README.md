@@ -55,8 +55,10 @@ https://www.dextools.io/app/bnb/pair-explorer/0x08e331ba3d2906ad8fc0f58545e46412
  links to CHECK CONTRACT CODE HERE:
 
 Sniffer link:
-https://tokensniffer.com/token/bsc/0x7b72c5362ae7292570cd7bddfa49652328a5bc45
+https://tokensniffer.com/token/bsc/0x7b72c5362ae7292570cd7bddfa49652328a5bc45.
+
 bscscan link: https://bscscan.com/token/0x7b72c5362ae7292570cd7bddfa49652328a5bc45.
+
 
   Bscscan: BIPECOIN AI ORACLE:
 https://bscscan.com/address/0xa0C87cdC1245D05E2a7b8950AC7d040e6dd54B54#code
