@@ -1,16 +1,16 @@
 # BIPECOIN (BIC) WHITEPAPER V6
-### Community-Driven|infrastructure|Ai-ready oracle|BEP20 Token on BNB Smart Chain | Fixed Supply | Renounced
+### Community-Driven Currency|Ai-ready|BEP20 Token on BNB Smart Chain | Fixed Supply | Renounced
 ### Contract: 0x7b72c5362ae7292570cd7bddfa49652328a5bc45
 ### Date: September 2026
 
 ---
 
 ### 1. ABSTRACT
-Bipecoin (BIC) is a community-driven infrastructure Ai-ready token deployed on BNB Smart Chain (BSC) as BEP-20. Total fixed supply: 5,000,000,000 BIC. No mint function. Ownership renounced (owner balance 0%). 
+Bipecoin (BIC) is a community-driven Currency,Ai-ready,deployed on BNB Smart Chain (BSC) as BEP-20. Total fixed supply: 5,000,000,000 BIC. No mint function. Ownership renounced (owner balance 0%). 
 
 To ensure trust: 400,000,000 BIC has been burned on-chain, and 3,500,000,000 BIC is locked via PinkLock until September 2027 (1B + 2.5B locks). Current circulating supply is ~1.1B.
 
-BIC is part of the BNB Chain Ecosystem currently, building slowly with a long-term vision to evolve into BIC Chain foundation,L1.
+BIC is part of the BNB Chain Ecosystem, building slowly with a long-term vision to evolve into BIC Chain foundation,L1.
 
 ### 2. TOKENOMICS - REAL ON-CHAIN DATA
 
@@ -30,7 +30,7 @@ BIC is part of the BNB Chain Ecosystem currently, building slowly with a long-te
 | Ownership | Renounced |
 | Mint | No |
 
-**Burn Policy:** 400M burned initially. Further burn of 400M planned every 5 years as stated in community roadmap, executed via on-chain burn transaction.
+**Burn Policy:** 400M burned initially. Further burn of 400M planned every 5 years for community stability.
 
 ### 3. THE 5 CORE DUTIES (From Code to Community)
 
@@ -81,7 +81,6 @@ https://bipecoin.com
 
 - PancakeSwap: https://pancakeswap.finance/swap?outputCurrency=0x7b72c5362ae7292570cd7bddfa49652328a5bc45&chainId=56
 
-- GeckoTerminal: https://www.geckoterminal.com/bsc/tokens/0x7b72c5362ae7292570cd7bddfa49652328a5bc45
 
 - DexScreener: https://dexscreener.com/bsc/0x7b72c5362ae7292570cd7bddfa49652328a5bc45
 
@@ -89,12 +88,12 @@ https://bipecoin.com
 ### 8. CONTACT & COMMUNITY
 
 - Founder Email: ebubechi12@bipecoin.com
-- X: https://x.com/BIPECOINBIC1
+- X: https://x.com/BIPECOINBIC
 - Telegram: https://t.me/bipecoinbic
 - GitHub: https://github.com/Bipecoin-Bic
 
 ### 9. DISCLAIMER
 
-Bipecoin (BIC) is a community-driven infrastructure and Ai-ready oracle token  building slowly. Crypto assets are volatile. BNB Chain fees apply. Always DYOR. The long-term Layer 1 vision is a development goal, not current state. Current state is BEP20 on BSC.
+Bipecoin (BIC) is a community-driven Currency and Ai-ready oracle token  building slowly. Crypto assets are volatile. BNB Chain fees apply. Always DYOR. The long-term Layer 1 vision is a development goal, not current state. Current state is BEP20 on BSC.
 
-© 2026 BIPECOIN (BIC) - Built with purpose & vision.
+© 2026 BIPECOIN (BIC) - Built with purpose & vision. Community Driven Currency for next generation.
