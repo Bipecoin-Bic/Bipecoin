@@ -28,7 +28,9 @@ Circulating: ~1.1B (5B - 0.4B Burned - 3.5B Locked)
 Ownership: Renounced - Owner balance 0%
 Mint Function: None
 
-Current Vision:phase 1:
+Visions for Bipecoin Bic:
+
+Current Vision(phase 1):
 Currency to the community and Ai-ready on BSC chain.
  
 
