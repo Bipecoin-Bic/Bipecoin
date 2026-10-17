@@ -2,11 +2,11 @@ BIPECOIN (BIC)
  
 Official Whitepaper
  
-BEP20 Token on BNB Smart Chain | Community Driven | DAOR
+BEP20 Token on BNB Smart Chain |Digital Asset and Ai-ready on BNB chain  | DAOR
  
 1. Abstract
  
-Bipecoin (BIC) is a community-driven BEP20 token on BNB Smart Chain with a fixed supply of 5,000,000,000 BIC. The contract is verified on BscScan and published on GitHub. No further minting is possible. Bipecoin follows DAOR — Decentralized, Autonomous, Open & Renounced.
+Bipecoin (BIC) is a Digital Ai-ready Asset BEP20 token on BNB Smart Chain with a fixed supply of 5,000,000,000 BIC. The contract is verified on BscScan and published on GitHub. No further minting is possible. Bipecoin follows DAOR — Decentralized, Autonomous, Open & Renounced.
  
 2. Tokenomics
  
@@ -74,8 +74,8 @@ Ownership: Renounced
 
 8. Disclaimer
  
-Bipecoin is community-driven. No financial advice. Code is fixed 5B supply. Burn of 400M every 5 years and lock of 3.5B from September 2026 to September 2027 are executed via on-chain transactions and PinkLock contracts post-deployment.
+Bipecoin is a digital asset on bnb chain. No financial advice. Code is fixed 5B supply. Burn of 400M every 5 years and lock of 3.5B from September 2026 to September 2027 are executed via on-chain transactions and PinkLock contracts post-deployment.
  
-© 2026 Bipecoin-Bic | Community Driven | BNB Chain.
+© 2026 Bipecoin-Bic | Digital Asset |Ai ready on BNB Chain.
 Founder: Ebubechi Peter.
 Contact: ebubechi12@bipecoin.com
