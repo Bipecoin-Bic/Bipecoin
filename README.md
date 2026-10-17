@@ -43,7 +43,7 @@ Official Links
 
 WEB:https://bipecoin.com,
  
-Linktree:https://linktr.ee/Bipecoinbic
+Linktree:https://linktr.ee/Bipecoinbic1
 
   
 
