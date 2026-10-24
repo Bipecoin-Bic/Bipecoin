@@ -43,7 +43,6 @@ Official Links
 
 WEB:https://bipecoin.com,
  
-Linktree:https://linktr.ee/Bipecoinbic1
 
   
 
@@ -67,9 +66,9 @@ https://bscscan.com/address/0xa0C87cdC1245D05E2a7b8950AC7d040e6dd54B54#code
 
 Community LINKS:
 
-X (Twitter): https://x.com/BIPECOINBIC ,
+X (Twitter): https://x.com/BIPECOIN,
 
-Telegram: https://t.me/bipecoinbic ,
+Telegram: https://t.me/bipecoin ,
 
 Email: ebubechi12@bipecoin.com ,
 
