@@ -74,6 +74,8 @@ Email: ebubechi12@bipecoin.com ,
 
 GitHub: https://github.com/Bipecoin-Bic.
 
+GitHub: GitHub.bipecoin.com
+
 
 
 Whitepaper:
