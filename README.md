@@ -68,7 +68,7 @@ Community LINKS:
 
 X (Twitter): https://x.com/BIPECOIN,
 
-Telegram: https://t.me/bipecoin ,
+Telegram: https://t.me/bipecoinbic ,
 
 Email: ebubechi12@bipecoin.com ,
 
