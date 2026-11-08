@@ -83,20 +83,32 @@ https://tokensniffer.com/token/bsc/0x7b72c5362ae7292570cd7bddfa49652328a5bc45
 https://bipecoin.com
 
 
-- BscScan Token: https://bscscan.com/token/0x7b72c5362ae7292570cd7bddfa49652328a5bc45
-
 - PancakeSwap: https://pancakeswap.finance/swap?outputCurrency=0x7b72c5362ae7292570cd7bddfa49652328a5bc45&chainId=56
 
 
-- DexScreener: https://dexscreener.com/bsc/0x7b72c5362ae7292570cd7bddfa49652328a5bc45
+this is another token on bipecoin..which is bipecoin defi; the code is not in bscscan but only bipecoin layer 1.
+
+bipecoin defi;
+
+https://bscscan.com/token/0xa753222BF7C431CBd41761Ef9812BA26FF2dcF4F#transactions
+
+bipecoin layer1;
+
+https://bscscan.com/address/0x7B72C5362aE7292570Cd7bDDfA49652328A5bC45#code
+
+Bipecoin Ai;
+
+https://bscscan.com/address/0xa0C87cdC1245D05E2a7b8950AC7d040e6dd54B54#code
 
 
 ### 8. CONTACT & COMMUNITY
 
 - Founder Email: ebubechi12@bipecoin.com
-- X: https://x.com/BIPECOINBIC
-- Telegram: https://t.me/bipecoinbic
+- X: https://x.com/BIPECOIN
+- Telegram: https://t.me/bipecoin
 - GitHub: https://github.com/Bipecoin-Bic
+
+Gmail: ebubechipeter12@gmail.com
 
 ### 9. DISCLAIMER
 
