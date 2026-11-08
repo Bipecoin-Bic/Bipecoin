@@ -49,8 +49,6 @@ sniffer link:
 
 https://tokensniffer.com/token/bsc/0x7b72c5362ae7292570cd7bddfa49652328a5bc45
 
-Dextools: CHECK CHART GRAPH HERE:
- https://www.dextools.io/app/bnb/pair-explorer/0x08e331ba3d2906ad8fc0f58545e46412b14567f5?t=1790883223230
 
 ### 4. SECURITY & TRANSPARENCY
 
@@ -87,6 +85,9 @@ https://bipecoin.com
 
 
 - PancakeSwap: https://pancakeswap.finance/swap?outputCurrency=0x7b72c5362ae7292570cd7bddfa49652328a5bc45&chainId=56
+
+
+Dextools: CHECK CHART GRAPH HERE: https://www.dextools.io/app/bnb/pair-explorer/0x08e331ba3d2906ad8fc0f58545e46412b14567f5?t=1790883223230
 
 
 this is another token on bipecoin..which is bipecoin defi; the code is not in bscscan but only bipecoin layer 1.
